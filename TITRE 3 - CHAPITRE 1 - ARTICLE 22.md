@@ -157,7 +157,7 @@ Conseil d’Etat. » ;
 
 7° Le chapitre est complété par les dispositions suivantes :
 
-« Section 4
+**Section 4**
 
 « Mise en œuvre du compte personnel de formation pour les travailleurs indépendants,
 

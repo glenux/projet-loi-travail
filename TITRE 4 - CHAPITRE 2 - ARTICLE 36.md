@@ -46,7 +46,7 @@ recueillies en application du présent article. » ;
 
 6° Après l’article L. 6353-9, il est inséré une section ainsi rédigée :
 
-« Section 4
+**Section 4**
 
 « Obligations vis-à-vis des financeurs
 

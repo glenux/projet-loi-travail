@@ -12,7 +12,7 @@ rédigé :
 
 « PRINCIPES ESSENTIELS DU DROIT DU TRAVAIL
 
-« Section 1
+**Section 1**
 
 « Libertés et droits de la personne au travail
 
@@ -51,7 +51,7 @@ recherchée dans la relation de travail.
 « Art. 10. - L’employeur exerce son pouvoir de direction dans le respect des libertés et
 droits fondamentaux des salariés.
 
-« Section 2
+**Section 2**
 
 « Formation, exécution et rupture du contrat de travail
 
@@ -114,7 +114,7 @@ dérogation prévue par la loi.
 « Art. 29. - Le licenciement est précédé d’un préavis d’une durée raisonnable. Il ouvre
 droit à une indemnité dans les conditions prévues par la loi.
 
-« Section 3
+**Section 3**
 
 « Rémunération
 
@@ -133,7 +133,7 @@ prévues par la loi.
 
 
 
-« Section 4
+**Section 4**
 
 « Temps de travail
 
@@ -163,7 +163,7 @@ les autres salariés.
 « Art. 38. - Tout salarié a droit chaque année à des congés payés à la charge de
 l’employeur, dont la durée minimale est fixée par la loi.
 
-« Section 5
+**Section 5**
 
 « Santé et sécurité au travail
 
@@ -188,7 +188,7 @@ bénéficie de garanties spécifiques.
 
 
 
-« Section 6
+**Section 6**
 
 « Libertés et droits collectifs
 
@@ -227,7 +227,7 @@ d’élection bénéficient, en cette qualité, d’un statut protecteur.
 « Art. 50. - L’exercice du droit de grève ne peut justifier la rupture du contrat de travail ni
 donner lieu à aucune sanction, sauf faute lourde imputable au salarié.
 
-« Section 7
+**Section 7**
 
 « Négociation collective et dialogue social
 
@@ -266,7 +266,7 @@ contrats de travail.
 « Les stipulations plus favorables du contrat de travail prévalent si la loi n’en dispose pas
 autrement.
 
-« Section 8
+**Section 8**
 
 « Contrôle administratif et règlement des litiges
 

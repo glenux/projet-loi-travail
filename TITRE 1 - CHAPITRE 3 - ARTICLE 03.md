@@ -21,7 +21,7 @@ dispositions suivantes :
 
 « DUREE ET AMENAGEMENT DU TRAVAIL
 
-« Section 1
+**Section 1**
 
 « Travail effectif, astreintes et équivalences
 
@@ -165,7 +165,7 @@ décret en Conseil d’Etat.
 
 
 
-« Section 2
+**Section 2**
 
 « Durées maximales de travail
 
@@ -266,7 +266,7 @@ en application des articles L. 3121-24 et L. 3151-25.
 
 
 
-« Section 3
+**Section 3**
 
 « Durée légale et heures supplémentaires
 
@@ -375,7 +375,7 @@ les entreprises de plus de vingt salariés.
 l’article L.3121-29 et les caractéristiques et les conditions de prise de la contrepartie obligatoire
 en repos pour toute heure supplémentaire accomplie au-delà de ce contingent.
 
-« Section 4
+**Section 4**
 
 « Aménagement du temps de travail sur une période supérieure à la semaine,
 
@@ -527,7 +527,7 @@ récupération des heures perdues sont déterminées par décret en Conseil d’
 
 
 
-« Section 5
+**Section 5**
 
 « Conventions de forfait
 
@@ -703,7 +703,7 @@ application des dispositions de l’article L. 3121-58, et à défaut de précis
 collectif mentionné à l’article L. 3121-63, le nombre maximal de jours travaillés dans l’année est
 de deux cent trente-cinq jours.
 
-« Section 6
+**Section 6**
 
 « Dispositions d’application
 
@@ -747,7 +747,7 @@ articles L. 3121-24 à L. 3121-26.
 
 « TRAVAIL DE NUIT
 
-« Section 1
+**Section 1**
 
 « Ordre public
 
@@ -864,7 +864,7 @@ le poste proposé dans ces conditions.
 L. 1226-10 et suivants, applicables aux salariés déclarés inaptes à leur emploi ainsi que des
 articles L. 4624-3 et L. 4624-4.
 
-« Section 2
+**Section 2**
 
 « Champ de la négociation collective
 
@@ -930,7 +930,7 @@ situation personnelle des salariés et, en particulier, de leur changement d'avi
 mentionnées à l'article L. 1225-9, le choix de ne plus travailler entre 21 heures et le début de la
 période de nuit est d'effet immédiat.
 
-« Section 3
+**Section 3**
 
 « Dispositions supplétives
 
@@ -977,7 +977,7 @@ quarante-quatre heures.
 
 « TRAVAIL A TEMPS PARTIEL ET TRAVAIL INTERMITTENT
 
-« Section 1
+**Section 1**
 
 « Travail à temps partiel
 
@@ -1390,7 +1390,7 @@ provoqué un déséquilibre grave et durable des conditions d’emploi, des déc
 consultation des organisations d’employeurs et de salariés intéressés, peuvent instituer des
 limitations du recours au travail à temps partiel dans la branche ou la profession concernée.
 
-« Section 2
+**Section 2**
 
 « Travail intermittent
 
@@ -1469,7 +1469,7 @@ III. - Le livre Ier de la troisième partie du même code est ainsi modifié :
 
 « REPOS QUOTIDIEN
 
-« Section 1
+**Section 1**
 
 « Ordre public
 
@@ -1479,7 +1479,7 @@ d’urgence dans des conditions déterminées par décret.
 
 
 
-« Section 2
+**Section 2**
 
 « Champ de la négociation collective
 
@@ -1489,7 +1489,7 @@ l’article L. 3131-1, dans des conditions déterminées par décret, notamment 
 caractérisées par la nécessité d'assurer une continuité du service ou par des périodes
 d'intervention fractionnées.
 
-« Section 3
+**Section 3**
 
 « Dispositions supplétives
 
@@ -1502,7 +1502,7 @@ d'intervention fractionnées.
 
 « JOURS FERIES
 
-« Section 1
+**Section 1**
 
 « Dispositions générales
 
@@ -1558,7 +1558,7 @@ branche définit les jours fériés chômés.
 
 « Art. L. 3133-3-2. - A défaut d’accord, l’employeur fixe les jours fériés chômés.
 
-« Section 2
+**Section 2**
 
 « Journée du 1er mai
 
@@ -1574,7 +1574,7 @@ activité, ne peuvent interrompre le travail, les salariés occupés le 1er mai 
 salaire correspondant au travail accompli, à une indemnité égale au montant de ce salaire. Cette
 indemnité est à la charge de l'employeur.
 
-« Section 3
+**Section 3**
 
 « Journée de solidarité
 
@@ -1662,7 +1662,7 @@ communes, le Vendredi Saint comme la date de la journée de solidarité. » ;
 
 « CONGES PAYES
 
-« Section 1
+**Section 1**
 
 « Droit au congé
 
@@ -1673,7 +1673,7 @@ l'employeur.
 l’article L. 1225-17 ou d'un congé d’adoption prévu à l'article L. 1225-37 ont droit à leur congé
 payé annuel, quelle que soit la période de congé payé retenue pour le personnel de l’entreprise.
 
-« Section 2
+**Section 2**
 
 « Durée du congé
 
@@ -1756,7 +1756,7 @@ branche peut :
 application de l’article L. 3141-10, le début de la période de référence pour l’acquisition des
 congés est fixé par un décret en Conseil d’Etat.
 
-« Section 3
+**Section 3**
 
 « Prise des congés
 
@@ -1914,7 +1914,7 @@ ce
 
 
 
-« Section 4
+**Section 4**
 
 « Indemnité de congés
 
@@ -2008,7 +2008,7 @@ l’indemnité journalière de congés.
 
 « Cette indemnité journalière ne se confond pas avec l’indemnité de congés.
 
-« Section 5
+**Section 5**
 
 « Caisses de congés payés
 

@@ -16,7 +16,7 @@ dont relève l’entreprise dans laquelle il met à disposition ce salarié. » 
 
 2° Le chapitre est complété par une section ainsi rédigée :
 
-« Section 4
+**Section 4**
 
 « Dispositions applicables à l’ensemble des groupements d’employeurs
 

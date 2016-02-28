@@ -18,7 +18,7 @@ l’article L. 5312-1 » sont remplacés par les mots : « Pôle emploi » ;
 II. - Après la section 1 du chapitre VI du titre II du livre V de la cinquième partie du
 même code, il est inséré une section 1 bis ainsi rédigée :
 
-« Section 1 bis
+**Section 1 bis**
 
 « Périodes d’activités non déclarées
 
