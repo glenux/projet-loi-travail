@@ -7,7 +7,7 @@ class Splitter
     @chapitre = ""
     @article = ""
     @titre = ""
-    @document = "INTRODUCTION.txt"
+    @document = "INTRODUCTION.md"
   end
 
   def update what
@@ -27,7 +27,7 @@ class Splitter
     @document += "TITRE #{@titre}" unless @titre.empty?
     @document += " - CHAPITRE #{@chapitre}" unless @chapitre.empty?
     @document += " - ARTICLE #{@article}" unless @article.empty?
-    @document += ".txt"
+    @document += ".md"
     FileUtils.rm_f @document
     puts @document
   end
