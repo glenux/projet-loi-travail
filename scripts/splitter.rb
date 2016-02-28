@@ -75,8 +75,11 @@ class Splitter
         # add new paragraph if needed
         if line =~ /^(«|-|\w+\)|\w+°|[IXV]+\.)/ then line = "\n" + line end
 
-        # add markdown for section
+        # use markdown for section title
         line.gsub!(/« (Section.*)/,'« **\1**')
+
+        # use markdown for quotes
+        line.gsub!(/^« /,'> ')
 
         case cur_level
         when :article, :undef then
