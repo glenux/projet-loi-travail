@@ -13,3 +13,9 @@ wget -q -O "$LOCAL_PDF" "$OFFICIAL_PDF"
 # Convert to text
 pdftotext "$LOCAL_PDF" "$LOCAL_TXT"
 
+# Remove pages numbers & escape chars (^Lpage)
+sed -i 's/^\xc.*$//' "$LOCAL_TXT"
+
+# Split into multiple files
+./scripts/splitter.rb "$LOCAL_TXT"
+
