@@ -9,7 +9,7 @@ I. - Au chapitre II du titre IV du livre Ier de la troisième partie du code du 
 section première et les sous-sections 1 à 8 de la section 2 sont remplacées par les dispositions
 suivantes :
 
-**Section 1**
+« **Section 1**
 
 « Congés de conciliation entre la vie professionnelle et la vie personnelle
 
@@ -293,7 +293,7 @@ et son renouvellement, la durée du préavis en cas de retour du salarié avant 
 délais de demande du salarié et de réponse de l’employeur concernant le fractionnement du
 congé sont fixés par décret.
 
-**Section 2**
+« **Section 2**
 
 « Congés pour engagement associatif, politique ou militant
 
@@ -898,7 +898,7 @@ et réserve sanitaire » de la section 2 est ainsi modifiée :
 
 V. - Le chapitre II est complété par une section 3 ainsi rédigée :
 
-**Section 3**
+« **Section 3**
 
 « Congés d’évolution des parcours professionnels
 

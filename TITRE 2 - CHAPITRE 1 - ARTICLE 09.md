@@ -48,7 +48,7 @@ nullité des accords conclus, dès lors qu’est respecté le principe de loyaut
 
 2° Après la section 2, il est inséré une section 2 bis ainsi rédigée :
 
-**Section 2 bis**
+« **Section 2 bis**
 
 « Préambule des conventions et accords
 

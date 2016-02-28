@@ -13,7 +13,7 @@ l’indemnité » sont supprimés.
 III. - Après l’article L. 1255-13 du même code du travail, il est ajouté une section 3 ainsi
 rédigée :
 
-**Section 3**
+« **Section 3**
 
 « Portage salarial
 

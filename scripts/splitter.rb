@@ -76,7 +76,7 @@ class Splitter
         if line =~ /^(«|-|\w+\)|\w+°|[IXV]+\.)/ then line = "\n" + line end
 
         # add markdown for section
-        line.gsub!(/« (Section.*)/,'**\1**')
+        line.gsub!(/« (Section.*)/,'« **\1**')
 
         case cur_level
         when :article, :undef then
