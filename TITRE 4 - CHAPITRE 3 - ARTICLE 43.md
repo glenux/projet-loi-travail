@@ -20,4 +20,4 @@ fondement de l’article L. 5134-20 du code du travail dont le taux est fixé pa
 
 2° Au troisième alinéa, les mots : « du deuxième alinéa » sont remplacés par les mots :
 
-« des premier et deuxième alinéas ».
+> des premier et deuxième alinéas ».

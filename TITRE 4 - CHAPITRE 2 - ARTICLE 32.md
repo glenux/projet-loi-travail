@@ -8,7 +8,7 @@ La sixième partie du code du travail est ainsi modifiée :
 
 1° L’article L. 6231-1 est complété par un alinéa ainsi rédigé :
 
-« 9° Délivrent à tout apprenti une attestation mentionnant notamment la durée de la
+> 9° Délivrent à tout apprenti une attestation mentionnant notamment la durée de la
 formation et les compétences travaillées, conformément au modèle établi par un arrêté conjoint
 du ministre chargé de la formation professionnelle et du ministre de l’Education nationale. » ;
 
@@ -16,16 +16,16 @@ du ministre chargé de la formation professionnelle et du ministre de l’Educat
 
 3° Le troisième alinéa de l’article L. 6241-9 est remplacé quatre alinéas ainsi rédigés :
 
-« 2° Les établissements privés d’enseignement du second degré gérés par des organismes
+> 2° Les établissements privés d’enseignement du second degré gérés par des organismes
 à but non lucratif et qui remplissent l’une des conditions suivantes :
 
-« a) Être lié avec l’État par l’un des contrats d’association mentionnés à l’article L. 442-5
+> a) Être lié avec l’État par l’un des contrats d’association mentionnés à l’article L. 442-5
 du code de l’éducation ou à l’article L. 813-1 du code rural et de la pêche maritime ;
 
-« b) Être habilité à recevoir des boursiers nationaux conformément aux procédures
+> b) Être habilité à recevoir des boursiers nationaux conformément aux procédures
 prévues à l’article L. 531-4 du code de l’éducation ;
 
-« c) Être reconnu conformément à la procédure prévue à l’article L. 443-2 du code de
+> c) Être reconnu conformément à la procédure prévue à l’article L. 443-2 du code de
 l’éducation ; »
 
 
@@ -35,7 +35,7 @@ bénéficient pas des dépenses prévues au 1° de l'article L. 6241-8 » ;
 
 5° L’article L. 6332-16 est complété par un alinéa ainsi rédigé :
 
-« Dans les mêmes conditions, ils peuvent également prendre en charge les organismes de
+> Dans les mêmes conditions, ils peuvent également prendre en charge les organismes de
 formation professionnelle initiale ou continue à but non lucratif figurant sur une liste arrêtée par
 le ministre en charge de la formation professionnelle et du ministère de l’éducation nationale et
 concourant par leurs enseignements technologiques et professionnels à l’insertion des jeunes

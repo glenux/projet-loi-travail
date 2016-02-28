@@ -12,7 +12,7 @@ supprimés ;
 
 2° Il est complété par un alinéa ainsi rédigé :
 
-« 7° Les modalités d’exercice par le salarié de son droit à la déconnexion dans
+> 7° Les modalités d’exercice par le salarié de son droit à la déconnexion dans
 l’utilisation des outils numériques en vue d’assurer le respect des temps de repos et de congés. A
 défaut d’accord, l’employeur définit ces modalités et les communique par tout moyen aux
 salariés de l’entreprise. Dans les entreprises d’au moins trois cent salariés, ces modalités font

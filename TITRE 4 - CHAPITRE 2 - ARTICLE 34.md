@@ -24,7 +24,7 @@ administrative, l’établissement ou l’organisme qui délivre la certificatio
 
 2° Le III de l’article L. 335-5 est complété par un alinéa ainsi rédigé :
 
-« Le jury peut attribuer la totalité de la certification. A défaut, il se prononce sur l'étendue
+> Le jury peut attribuer la totalité de la certification. A défaut, il se prononce sur l'étendue
 de la validation et, en cas de validation partielle, sur la nature des connaissances et aptitudes
 devant faire l'objet d'un contrôle complémentaire. Les parties de certification obtenues
 constituant des blocs de compétences sont acquises définitivement, elles permettent des
@@ -35,7 +35,7 @@ l’organisme qui délivre la certification visée, prévoient des équivalences
 
 a) Après le premier alinéa, il est inséré un alinéa ainsi rédigé :
 
-« L’autorité ou l’organisme qui se prononce sur la recevabilité de la demande effectue un
+> L’autorité ou l’organisme qui se prononce sur la recevabilité de la demande effectue un
 contrôle de conformité aux regards des conditions énumérées aux alinéas suivants. » ;
 
 b) Au deuxième alinéa, les mots : « trois ans » sont remplacés par les mots : « un an » et
@@ -53,7 +53,7 @@ a) La seconde phrase du deuxième alinéa est supprimée ;
 
 b) Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
 
-« Le jury peut attribuer la totalité de la certification. A défaut, il se prononce sur l'étendue
+> Le jury peut attribuer la totalité de la certification. A défaut, il se prononce sur l'étendue
 de la validation et, en cas de validation partielle, sur la nature des connaissances et aptitudes
 devant faire l'objet d'un contrôle complémentaire. Les parties de certification obtenues
 constituant des blocs de compétences sont acquises définitivement. Ces parties de certifications
@@ -65,10 +65,10 @@ II. - Le code du travail est ainsi modifié :
 
 1° Le premier alinéa du I de l’article L. 6315-1 est complété par un alinéa ainsi rédigé :
 
-« Cet entretien comportera aussi des informations relatives à la validation des acquis de
+> Cet entretien comportera aussi des informations relatives à la validation des acquis de
 l’expérience. » ;
 
 2° Les deux derniers alinéas de l’article L. 6422-2 sont remplacés par un alinéa ainsi
 rédigé :
 
-« Les conditions de rémunération sont celles prévues à l’article L. 6422-8. »
+> Les conditions de rémunération sont celles prévues à l’article L. 6422-8. »

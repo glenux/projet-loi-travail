@@ -69,12 +69,12 @@ contrôle de l’inspection du travail mentionnés à l’article L. 8112-1 » ;
 
 5° Au premier alinéa de l’article L. 4311-6 et au 1° de l’article L. 8271-1-2, les mots :
 
-« inspecteurs et les contrôleurs du travail » sont remplacés par les mots : « agents de contrôle de
+> inspecteurs et les contrôleurs du travail » sont remplacés par les mots : « agents de contrôle de
 l’inspection du travail mentionnés à l’article L. 8112-1 » ;
 
 6° À l’article L. 4721-4 et au premier alinéa de l’article L. 4721-5, les mots :
 
-« l’inspecteur et le contrôleur du travail » sont remplacés par les mots : « les agents de contrôle
+> l’inspecteur et le contrôleur du travail » sont remplacés par les mots : « les agents de contrôle
 de l’inspection du travail mentionné à l’article L. 8112-1 » ;
 
 7° À la fin de l’article L. 8114-2, les mots : « inspecteurs du travail et des contrôleurs du
@@ -103,7 +103,7 @@ VI. - Le code des transports est ainsi modifié :
 
 1° A l’article L. 1324-10, les mots : « inspecteur du travail » sont remplacés par les mots :
 
-« agent de contrôle de l’inspection du travail mentionné à l'article L. 8112-1 du code du
+> agent de contrôle de l’inspection du travail mentionné à l'article L. 8112-1 du code du
 travail » ;
 
 2° A l’article L. 5243-2-3, les mots : « inspecteurs et les contrôleurs » sont remplacés par

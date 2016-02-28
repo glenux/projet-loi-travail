@@ -8,20 +8,20 @@
 I. - Le titre III du livre IX de la quatrième partie législative du code de l’éducation est
 complété par un chapitre ainsi rédigé :
 
-« CHAPITRE VII
+> CHAPITRE VII
 
-« LES PERSONNELS CONTRACTUELS DES GROUPEMENTS D'ETABLISSEMENTS SCOLAIRES PUBLICS
+> LES PERSONNELS CONTRACTUELS DES GROUPEMENTS D'ETABLISSEMENTS SCOLAIRES PUBLICS
 
-« Art. L. 937-1. - Les agents contractuels recrutés pour exercer leurs fonctions dans les
+> Art. L. 937-1. - Les agents contractuels recrutés pour exercer leurs fonctions dans les
 groupements d’établissements mentionnés à l’article L. 423-1 du présent code peuvent être
 employés à temps complet ou incomplet en fonction des besoins du service.
 
-« Les contrats des agents recrutés sur le fondement de l’alinéa qui précède sont conclus et
+> Les contrats des agents recrutés sur le fondement de l’alinéa qui précède sont conclus et
 renouvelés dans les conditions et selon les modalités fixées par l’article 6 bis de la loi n°84-16 du
 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique d’Etat à
 l’exception des dispositions du dernier alinéa de cet article.
 
-« Les dispositions prévues par le décret pris pour l’application de l’article 7 de la loi
+> Les dispositions prévues par le décret pris pour l’application de l’article 7 de la loi
 
 n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
 l'Etat sont applicables aux agents contractuels recrutés sur le fondement du premier alinéa. »
@@ -29,18 +29,18 @@ l'Etat sont applicables aux agents contractuels recrutés sur le fondement du pr
 II. - Au chapitre Ier du titre V du livre IX du code de l’éducation, il est créé un
 article L. 951-2-1 ainsi rédigé :
 
-« Art. L. 951-2-1. - Les agents contractuels recrutés par les établissements
+> Art. L. 951-2-1. - Les agents contractuels recrutés par les établissements
 d’enseignement supérieur mentionnés au livre VII de la troisième partie législative du présent
 code pour participer à la mission de formation continue prévue aux articles L. 123-3 et L. 123-4
 du présent code peuvent être employés à temps complet ou incomplet en fonction des besoins du
 service.
 
-« Les contrats des agents recrutés sur le fondement de l’alinéa qui précède sont conclus et
+> Les contrats des agents recrutés sur le fondement de l’alinéa qui précède sont conclus et
 renouvelés dans les conditions et selon les modalités fixées par l’article 6 bis de la loi n° 84-16
 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique d’Etat à
 l’exception des dispositions du dernier alinéa de cet article.
 
-« Les dispositions prévues par le décret pris pour l’application de l’article 7 de la loi
+> Les dispositions prévues par le décret pris pour l’application de l’article 7 de la loi
 
 n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
 l’Etat sont applicables aux agents contractuels recrutés sur le fondement du premier alinéa. »

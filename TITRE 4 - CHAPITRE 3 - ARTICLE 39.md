@@ -19,7 +19,7 @@ l’article L.2412-8, au dernier alinéa de l’article L. 2412-9, au dernier al
 l’article L. 2412-13, à l’article L. 2421-8-1, à l’article L. 5135-7 et au premier alinéa de
 l’article L. 6321-13 du code du travail, après le mot : « saisonnier » sont insérés les mots :
 
-« défini au 3° de l’article L. 1242-2 ».
+> défini au 3° de l’article L. 1242-2 ».
 
 III. - Dans les six mois suivant la promulgation de la présente loi, les organisations
 syndicales de salariés et les organisations professionnelles d’employeurs des branches dans

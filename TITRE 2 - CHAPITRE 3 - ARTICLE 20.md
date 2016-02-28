@@ -29,7 +29,7 @@ concernés » ;
 
 a) Au 3°, après les mots : « l’ensemble des entreprises » sont insérés les mots :
 
-« , pondéré par leur nombre de salariés, » ;
+> , pondéré par leur nombre de salariés, » ;
 
 b) Après la première phrase du 3°, il est inséré une phrase ainsi rédigée : « Pour la mesure
 de cette audience, le nombre d’entreprises adhérentes et le nombre de leurs salariés sont pris en
@@ -44,7 +44,7 @@ a) Au troisième alinéa, les mots : « dont les entreprises adhérentes emploie
 50 % de l'ensemble des salariés des entreprises adhérant aux organisations professionnelles
 d'employeurs reconnues représentatives à ce niveau » sont remplacés par les mots :
 
-« dont l’audience calculée dans les conditions prévues respectivement aux articles L. 2152-1 et
+> dont l’audience calculée dans les conditions prévues respectivement aux articles L. 2152-1 et
 L. 2152-4 selon le niveau considéré est supérieure à 50 % » ;
 
 b) Les quatrième à sixième alinéas sont supprimés.

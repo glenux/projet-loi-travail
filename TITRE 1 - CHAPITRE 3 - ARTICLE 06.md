@@ -10,12 +10,12 @@ code rural et de la pêche maritime » sont remplacés par les mots : « par l�
 
 2° L’article est complété par deux alinéas ainsi rédigés :
 
-« En outre, à titre exceptionnel ou lorsque des raisons objectives le justifient, dans des
+> En outre, à titre exceptionnel ou lorsque des raisons objectives le justifient, dans des
 secteurs déterminés par décret en Conseil d’Etat, l’apprenti de moins de dix-huit ans peut
 effectuer une durée de travail quotidienne supérieure à huit heures, sans que cette durée puisse
 excéder dix heures. Dans ces mêmes secteurs, il peut également effectuer une durée
 hebdomadaire de travail supérieure à trente-cinq heures, sans que cette durée puisse excéder
 quarante heures.
 
-« Dans les cas mentionnées aux deuxième et troisième alinéas, l’employeur informe
+> Dans les cas mentionnées aux deuxième et troisième alinéas, l’employeur informe
 l’inspecteur du travail et le médecin du travail. »

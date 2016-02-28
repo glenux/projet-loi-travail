@@ -7,7 +7,7 @@
 
 I. - L’article L. 1263-3 du code du travail est complété par un alinéa ainsi rédigé :
 
-« Pour l’application des dispositions du présent article, lorsque l’employeur établi hors de
+> Pour l’application des dispositions du présent article, lorsque l’employeur établi hors de
 France détache des salariés sur le territoire national exerçant des activités relevant du code rural
 et de la pêche maritime, les références aux articles L. 3131-1, L. 3132-2, L. 3121-34 et
 L. 3121-35 du présent code sont respectivement remplacées par les références aux

@@ -14,6 +14,6 @@ mots : « pour le personnel roulant et entre 23 heures et 6 heures pour le perso
 
 3° L’article L. 4511-2 est complété par un alinéa ainsi rédigé :
 
-« Sans préjudice des dispositions de l’article L. 1321-8 et du premier alinéa du présent
+> Sans préjudice des dispositions de l’article L. 1321-8 et du premier alinéa du présent
 article, le nombre maximal hebdomadaire d’heures de travail des personnels navigants pendant la
 période nocturne ne peut excéder 42 heures sur une période de sept jours. »
