@@ -21,6 +21,5 @@ de chaque salarié détaché sont déterminées par un décret en Conseil d’Et
 
 
 > La contribution est recouvrée selon les modalités fixées aux articles 112 à 124 du décret
-
 n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans sa
 rédaction en vigueur à la date de publication de la loi n° XX du XXX. »

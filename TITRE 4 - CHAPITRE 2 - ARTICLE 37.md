@@ -22,7 +22,6 @@ renouvelés dans les conditions et selon les modalités fixées par l’article 
 l’exception des dispositions du dernier alinéa de cet article.
 
 > Les dispositions prévues par le décret pris pour l’application de l’article 7 de la loi
-
 n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
 l'Etat sont applicables aux agents contractuels recrutés sur le fondement du premier alinéa. »
 
@@ -41,7 +40,6 @@ du 11 janvier 1984 portant dispositions statutaires relatives à la fonction pub
 l’exception des dispositions du dernier alinéa de cet article.
 
 > Les dispositions prévues par le décret pris pour l’application de l’article 7 de la loi
-
 n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
 l’Etat sont applicables aux agents contractuels recrutés sur le fondement du premier alinéa. »
 

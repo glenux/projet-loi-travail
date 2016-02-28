@@ -73,7 +73,7 @@ class Splitter
         puts "%s %s" % [cur_level, cur_id]
 
         # add new paragraph if needed
-        if line =~ /^(«|-|\w+\)|\w+°|[IXV]+\.)/ then line = "\n" + line end
+        if line =~ /^(«|-|\w+\)|\d+°|[IXV]+\.)/ then line = "\n" + line end
 
         # use markdown for section title
         line.gsub!(/« (Section.*)/,'« **\1**')
